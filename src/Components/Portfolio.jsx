@@ -21,7 +21,7 @@ import React from "react";
  */
 import image from "../images/design-desk.jpeg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "Laptop with books and laptop";
 
 /**
  * Project list
@@ -31,22 +31,22 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Introduction to Fitness-Pal 🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Fitness Pal is a boon for those fitness enthusiasts who want to strive and work towards their fitness goals whereever & whenever they want.",
+    url: "https://github.com/dhruv-porwal/FitnessPal",
   },
   {
-    title: "Web Development for Beginners",
+    title: "CodeScan",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "The One-Stop Solution to capturing and processing the QR Codes.",
+    url: "https://github.com/dhruv-porwal/CodeScan",
   },
   {
-    title: "My Resume Site",
+    title: "Social Media Integration Application",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Social media is a collective term for websites and applications that focus on communication, community-based input, interaction, content-sharing and collaboration. People use social media to stay in touch and interact with friends, family and various communities.This application brings all the social media platforms under one roof",
+    url: "https://github.com/dhruv-porwal/Social-Media-Integration-App",
   },
   {
     title: "GitHub Codespaces and github.dev",
